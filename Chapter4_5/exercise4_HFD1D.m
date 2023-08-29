@@ -26,7 +26,3 @@ end
 lambda = eig(A);  %the eig function is useful for 1D and 2D problem but not for 3d problems for 3d problems we have to use eigs
 k = sqrt(sort(-lambda));
 
-
-
-
-
